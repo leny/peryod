@@ -1,0 +1,15 @@
+{
+    "name": "peryod",
+    "version": "1.0.0",
+    "main": [
+        "dist/peryod.js",
+        "dist/peryod.min.js"
+    ],
+    "ignore": [
+        ".*",
+        "*.md",
+        "package.json",
+        "node_modules",
+        "test"
+    ]
+}
