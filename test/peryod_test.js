@@ -1,6 +1,6 @@
 "use strict";
 
-var peryod = require( "../lib/peryod.js" );
+require( "../lib/peryod.js" );
 
 module.exports = {
     setUp: function( done ) {
