@@ -35,8 +35,8 @@ Peryòd add a new method `peryod` in the global `Date` object, returning a human
 * **23** minutes ago...
 * 1 hour ago...
 * **4** hours ago..
-* yesterday, **12**:**34**
-* **14 october 2013**, **12**:**34**
+* yesterday, **12:34**
+* **14 october 2013**, **12:34**
 
 ### dateObject.peryod()
 
