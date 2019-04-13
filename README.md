@@ -4,6 +4,8 @@
 
 Date for humans in javascript (node.js &amp; browser)
 
+> ⚠️ **NOTE:** this is completely _outdated_.
+
 ## Getting Started
 
 ### in node.js
